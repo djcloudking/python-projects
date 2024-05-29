@@ -1,6 +1,6 @@
 # Float variables
-num1 = 5.0
-num2 = 2.5
+num1 = 11.0
+num2 = 9.0
 
 # Basic Arithmetic
 result1 = num1 + num2
