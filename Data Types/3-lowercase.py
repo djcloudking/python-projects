@@ -1,4 +1,4 @@
-text = "Python is awesome"
+text = "I love my wife"
 uppercase = text.upper()
 lowercase = text.lower()
 print("Uppercase:", uppercase)
