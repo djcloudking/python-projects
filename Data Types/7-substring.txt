@@ -1,0 +1,4 @@
+text = "My daughter is cute"
+substring = "is"
+if substring in text:
+    print(substring, "found in the text")
