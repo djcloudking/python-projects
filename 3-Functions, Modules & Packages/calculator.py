@@ -1,18 +1,20 @@
 a = 10
 b = 3
 
-def add():
+def add(a, b):
     add = a + b
-    print(add)
+    return add
 
-def sub():
+def sub(a, b):
     sub = a - b
-    print(sub)
+    return sub
 
-def mul():
+def mul(a, b):
     mul = a * b
-    print(mul)
+    return mul
 
-add()
-sub()
-mul()
+print(add(10, 3))
+
+print(sub(10, 3))
+
+print(mul(10, 3))
