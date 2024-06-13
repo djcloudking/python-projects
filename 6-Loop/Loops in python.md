@@ -16,3 +16,42 @@ Syntax: for i in range(5)
 ## while loop
 
 Use to execute a block of code for unknown number of times (dynamically).
+
+Syntax: while condition:
+
+# Loop manipulation
+
+
+## break
+
+Use to terminate a loop when a particular condition is met.
+
+Example:
+
+numbers = [1, 2, 3, 4]
+for num in numbers:
+    if number == 3:
+        break
+    print(number)
+
+Output:
+1
+2
+
+## continue
+
+Use to skip the iteration in a loop when the condition is met.
+
+Example:
+
+numbers = [1, 2, 3, 4]
+for num in numbers:
+    if number == 3:
+        contiue
+    print(number)
+
+Output:
+1
+2
+3
+4
