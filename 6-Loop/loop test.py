@@ -1,2 +1,5 @@
-for i in range(5):
-print("dj")
+colors = ["yellow", "blue", "green"]
+
+for x in colors:
+    print(x)
+    
