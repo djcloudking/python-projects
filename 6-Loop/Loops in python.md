@@ -10,7 +10,7 @@ Syntax: for i in range(5)
 
 **i** is a variable
 **in** keyword
-**range(x)** is like sequence
+**range(x)** is like sequence, a list of number from 0 to x. Sequence can be range, list or tuple. 
 
 
 ## while loop
