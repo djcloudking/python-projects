@@ -4,7 +4,7 @@
 
 #now import requests
 
-import requests
+import requests # type: ignore
 
 response = requests.get("https://api.github.com/repos/kubernetes/kubernetes/pulls")
 
