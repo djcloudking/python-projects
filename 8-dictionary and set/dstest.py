@@ -4,4 +4,4 @@ student = {
     "class": "8"
 }
 
-print(student("name"))
+print(student["name"])
