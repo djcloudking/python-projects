@@ -7,4 +7,8 @@ folders = input("Please provide the list of folders names with spaces between:")
 for folder in folders:
     files = os.listdir(folder)
     print("=================== listing files for the folder -" + folder)
+
+    for file in files:
+        print(file)
+        
   
