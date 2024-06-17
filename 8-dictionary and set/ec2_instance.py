@@ -1,5 +1,3 @@
-# Provide EC2 instance info
-
 ec2_instance = [
     {
         "id": "instance-01",
