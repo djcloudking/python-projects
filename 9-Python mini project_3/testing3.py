@@ -6,8 +6,7 @@
 
 import requests
 
-requests.get("api.github.com/repos/kubernetes/kubernetes/pulls")
+response = requests.get("https://api.github.com/repos/kubernetes/kubernetes/pulls")
 
-
-
+print(response)
 
