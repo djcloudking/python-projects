@@ -11,6 +11,7 @@ file = open('example.txt', 'r')  # Open a file for reading
 ```
 
 **File Modes**
+
 - `'r'`: Read (default)
 
 - `'w'`: Write (creates a new file or truncates an existing file)
