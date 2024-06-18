@@ -7,7 +7,7 @@ File operations in Python are essential for reading from and writing to files.
 You can open a file using the built-in `open()` function. It takes two parameters: the filename and the mode in which the file should be opened.
 
 ```python
-file = open('example.txt', 'r')  # Open a file for reading
+file = open('example.txt', 'r')  #Open a file for reading
 ```
 
 **File Modes**
