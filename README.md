@@ -1,2 +1,2 @@
-# Python-Demo
-This is a Repository of Python scripts
+# Python-challenges
+This is a Repository for showing how I use Python scripts in different project
