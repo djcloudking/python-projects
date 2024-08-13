@@ -28,6 +28,19 @@
     
     Use fileList.append()
 
+
+<img width="658" alt="image" src="https://github.com/user-attachments/assets/43bf164a-7369-431d-8fc6-50a62dfba277">
+
+
 **3- Create some files for testing**
 
+
+![image](https://github.com/user-attachments/assets/2549070b-3eb4-491f-bb12-a535e76a6160)
+
+
 **4- Test and verify results**
+
+
+![image](https://github.com/user-attachments/assets/2d9892ff-6472-4544-92d8-a1a57a20dd02)
+
+
