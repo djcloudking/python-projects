@@ -44,3 +44,4 @@
 ![image](https://github.com/user-attachments/assets/2d9892ff-6472-4544-92d8-a1a57a20dd02)
 
 
+The script returns a list of dictionaries containing the name and size of each file in the current working directory.
