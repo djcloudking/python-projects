@@ -80,4 +80,4 @@ s3.Bucket('my_bucket').put_object(Key='my_file.txt', Body=data)
    output=json
    ```
 
-Boto 3 is a powerful tool for Python developers working with AWS services, simplifying the interaction with AWS APIs and allowing for efficient cloud computing solutions.
+Boto 3 is a powerful tool for Python developers working with AWS services, simplifying the interaction with AWS APIs and allowing for efficient cloud computing solutions
