@@ -1,11 +1,11 @@
-# 🐍 Python Projects
+# Python Projects
 
 This repository is my hands-on collection of Python scripts, mini-projects, and cloud automation tools that reflect my learning journey and real-world use cases as a DevOps and Cloud Engineer.
 
 This repo includes beginner to intermediate-level Python exercises as well as practical scripts focused on AWS automation using Boto3.
 
 
-## 📌 Key Technologies
+## Key Technologies
 
 * **Python 3.x**
 * **AWS Boto3 SDK**
@@ -17,7 +17,7 @@ This repo includes beginner to intermediate-level Python exercises as well as pr
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run a project:
 
@@ -34,7 +34,7 @@ Some scripts may require environment variables or AWS credentials. Use an `.env`
 
 ---
 
-## 💡 Why This Repo?
+## Why This Repo?
 
 This collection helps me:
 
@@ -47,6 +47,6 @@ If you're learning Python, exploring AWS automation, or brushing up on scripting
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
 Feel free to fork this repo, open issues, or suggest improvements. I'm always open to collaboration and learning from others.
