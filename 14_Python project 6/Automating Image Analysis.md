@@ -142,18 +142,5 @@ Imagine you have a photo-sharing app where users upload images. You want each im
 ## Summary
 
 You’ve built a serverless pipeline that automates image analysis and metadata storage using AWS services and CDK in Python. This setup can be expanded for more complex use cases or scaled for production environments.
-
---- 
-
-## Resources
-
-* [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
-* [AWS Rekognition](https://aws.amazon.com/rekognition/)
-* [AWS Lambda](https://aws.amazon.com/lambda/)
-* [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
-
- ---
-
-*Feel free to open issues or submit pull requests for improvements!*
  
 
