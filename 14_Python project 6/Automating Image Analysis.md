@@ -16,7 +16,8 @@ Imagine you have a photo-sharing app where users upload images. You want each im
 
 ## Architecture
 
-<img width="975" height="591" alt="image" src="https://github.com/user-attachments/assets/080640dd-4db8-4f15-b748-a030463fc089" />
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/06a0a491-c4c2-4817-b53f-0cabc91afdf4" />
+
 
 
 - **S3 Bucket**: Stores uploaded images  
