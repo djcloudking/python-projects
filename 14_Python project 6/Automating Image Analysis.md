@@ -16,6 +16,9 @@ Imagine you have a photo-sharing app where users upload images. You want each im
 
 ## Architecture
 
+<img width="975" height="591" alt="image" src="https://github.com/user-attachments/assets/080640dd-4db8-4f15-b748-a030463fc089" />
+
+
 - **S3 Bucket**: Stores uploaded images  
 - **AWS Lambda**: Triggered on image upload, runs the analysis and saves results  
 - **AWS Rekognition**: Performs image analysis  
@@ -39,7 +42,7 @@ Imagine you have a photo-sharing app where users upload images. You want each im
 2. Run:  
    ```bash
    sudo npm install -g aws-cdk-lib
-````
+   ````
 
 3. Create project directory and initialize CDK app:
 
