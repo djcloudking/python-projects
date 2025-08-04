@@ -1,5 +1,4 @@
-# Automating Image Analysis in a Photo-Sharing Application  
-*Using AWS Lambda, S3, Rekognition, and DynamoDB with CDK and Python*  
+# Automating Image Analysis in a Photo-Sharing Application  *Using AWS Lambda, S3, Rekognition, and DynamoDB with CDK and Python*  
 
 ---
 
@@ -124,7 +123,7 @@ Imagine you have a photo-sharing app where users upload images. You want each im
    ```
 2. Confirm deployment by typing `Y` if prompted.
 
-  
+---  
 
 ## Verification
 
@@ -134,13 +133,13 @@ Imagine you have a photo-sharing app where users upload images. You want each im
 
 **Expected outcome:** Lambda triggers on upload, Rekognition analyzes the image, and results are saved in DynamoDB.
 
- 
+--- 
 
 ## Summary
 
 You’ve built a serverless pipeline that automates image analysis and metadata storage using AWS services and CDK in Python. This setup can be expanded for more complex use cases or scaled for production environments.
 
- 
+--- 
 
 ## Resources
 
@@ -149,7 +148,7 @@ You’ve built a serverless pipeline that automates image analysis and metadata 
 * [AWS Lambda](https://aws.amazon.com/lambda/)
 * [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 
- 
+ ---
 
 *Feel free to open issues or submit pull requests for improvements!*
  
