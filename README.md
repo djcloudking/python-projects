@@ -11,15 +11,14 @@ Use this repo as a hub to explore and navigate the full series.
 | #  | Project Name | Description |
 |----|--------------|-------------|
 | 01 | [Python fundamentals](https://github.com/djcloudking/python-fundamentals) | Learn Python fundamentals |
-| 00 | [Shopping Cart](https://github.com/djcloudking/00-python-mini-shopping-cart) | Create a shopping cart using Python |
-| 07 | [System Folders Lister](https://github.com/djcloudking/07-system-folder-lister) | Python script to list all system folders |
-| 09 | [GitHub Pull Request Info](https://github.com/djcloudking/09-pull-request-info) | Script to fetch PR data using GitHub API |
-| 10 | [File Operations](https://github.com/djcloudking/10-file-operations) | Learn file read/write in Python |
-| 11 | [Boto3 S3 Bucket](https://github.com/djcloudking/11-boto3-s3-bucket) | Create an S3 bucket using Boto3 |
-| 12 | [EBS Snapshot Cleanup](https://github.com/djcloudking/12-ebs-snapshot-cleanup) | Delete unused EBS snapshots with Lambda |
-| 13 | [File Info Extractor](https://github.com/djcloudking/13-file-info-extractor) | Extract file metadata with Python |
-| 14 | [Readme Generator](https://github.com/djcloudking/14-readme-generator) | Auto-generate a README.md |
-| 15 | [AWS Cost Management](https://github.com/djcloudking/15-aws-cost-manager) | Automate AWS instance cost management |
+| 02 | [Shopping Cart Project](https://github.com/djcloudking/shopping-cart-project) | Create a simple python shopping cart app that practices user input, arithmetic, and string handling|
+| 03 | [System Folders Lister Project](https://github.com/djcloudking/system-folder-lister-project) | Write a Python script to Lists files in user-provided folders with error handling for missing or restricted paths |
+| 04 | [GitHub Pull Request Info Project](https://github.com/djcloudking/github-pull-request-info-api-project) | Uses the GitHub API to fetch pull request data from the Kubernetes repo (JSON + APIs in Python) |
+| 05 | [EBS Snapshot Cleanup](https://github.com/djcloudking/aws-cost-optimization-with-ebs-snapshot-and-lambda-project) | Lambda function (python code) that automatically deletes unused EBS snapshots to optimize AWS storage costs |
+| 06 | [File Info Extractor](https://github.com/djcloudking/file-info-extractor-project) | Extract file metadata with Python |
+| 07 | [Photo Sharing App](https://github.com/djcloudking/photo-sharing-application-project) | AWS CDK with Python to automate an image analysis |
+| 08 | [AWS Cost Management](https://github.com/djcloudking/15-aws-cost-manager) | Automate CI/CD cost management |
+
 | 16 | [3-Tier Architecture](https://github.com/djcloudking/16-aws-3tier-architecture) | Build 3-tier architecture using Boto3 |
 | 17 | [Palindrome Detector](https://github.com/djcloudking/17-palindrome-detector) | Detect palindromes using Python |
 | 19 | [API Integration](https://github.com/djcloudking/19-api-integration) | Sample API integration using Python |
