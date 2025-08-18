@@ -18,7 +18,6 @@ Use this repo as a hub to explore and navigate the full series.
 | 06 | [File Info Extractor](https://github.com/djcloudking/file-info-extractor-project) | Extract file metadata with Python |
 | 07 | [Photo Sharing App](https://github.com/djcloudking/photo-sharing-application-project) | AWS CDK with Python to automate an image analysis |
 | 08 | [AWS Cost Management](https://github.com/djcloudking/15-aws-cost-manager) | Automate CI/CD cost management |
-
 | 16 | [3-Tier Architecture](https://github.com/djcloudking/16-aws-3tier-architecture) | Build 3-tier architecture using Boto3 |
 | 17 | [Palindrome Detector](https://github.com/djcloudking/17-palindrome-detector) | Detect palindromes using Python |
 | 19 | [API Integration](https://github.com/djcloudking/19-api-integration) | Sample API integration using Python |
