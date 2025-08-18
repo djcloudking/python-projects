@@ -43,6 +43,7 @@ This collection helps me:
 * Apply Python to real-world problems
 * Automate tasks on AWS (S3, EC2, Lambda, etc.)
 * Practice scripting, CLI tools, and API integrations
+* Deploy Real-world enterprise projects
 
 If you're learning Python, exploring AWS automation, or brushing up on scripting, feel free to explore and adapt these scripts.
 
